@@ -1,4 +1,3 @@
-layout_spectrum: 0.6526885898783803
 typography_spectrum: 0.815483276033774
 color:
   brandStrength: 0.20217374176718295
@@ -11,5 +10,7 @@ color:
     - '#91AA9D'
     - '#3E606F'
     - '#193441'
+layout_spectrum: 0.6526885898783803
 name: Jeroen's persoonlijke website
 title: Avocets
+description: Zieke e-commerce vogels
